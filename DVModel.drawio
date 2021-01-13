@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T06:47:09.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.284" etag="01UhrhGeRA50e99oAHfO" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:52:00.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.284" etag="4mw8IH5OWp80D5yto8ir" version="14.1.9" type="github">
   <diagram id="dFcGTcOO6VKS4K1IGvdy" name="Page-1">
-    <mxGraphModel dx="4063" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4374" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,7 +382,7 @@
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-55" value="Название источника, откуда берутся данные (задаётся в конфигурационном файле, который формируется для создания взаимосвязи – выбирается по названию или md5 из хаба H_SOURCE)&#xa;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-52">
           <mxGeometry x="170" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-72" value="L_FAMILY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-72" value="L_RELATION" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="520" width="600" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-72">
@@ -400,7 +400,7 @@
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-77" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-72">
           <mxGeometry y="60" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-78" value="l_family_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-77">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-78" value="l_relation_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-77">
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-79" value="integer" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-77">
@@ -467,7 +467,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-98" value="S_FAMILY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-98" value="S_RELATION" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1930" y="520" width="600" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-99" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-98">
@@ -485,7 +485,7 @@
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-98">
           <mxGeometry y="60" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-104" value="l_family_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-103">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-104" value="l_relation_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-103">
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-105" value="integer" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-103">
