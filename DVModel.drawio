@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T06:52:00.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.284" etag="4mw8IH5OWp80D5yto8ir" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:54:35.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.284" etag="tWt8Dh_5darkJFdtTF_H" version="14.1.9" type="github">
   <diagram id="dFcGTcOO6VKS4K1IGvdy" name="Page-1">
-    <mxGraphModel dx="4374" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3933" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,13 +298,13 @@
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-14">
           <mxGeometry y="140" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-28" value="vehicle_regnum" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-27">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-28" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;html=1;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-27">
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-29" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-27">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-29" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-27">
           <mxGeometry x="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fi9RAI6sNOyQZMEyOrty-30" value="Государственный регистрационный номер транспортного средства" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-27">
+        <mxCell id="Fi9RAI6sNOyQZMEyOrty-30" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-27">
           <mxGeometry x="170" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fi9RAI6sNOyQZMEyOrty-31" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Fi9RAI6sNOyQZMEyOrty-14">
