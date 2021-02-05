@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T15:00:36.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="TS_B4MfPRsRdinIkzouY" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T15:01:29.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="e3qkFfQBmL1PNo0NvDWh" version="14.2.9" type="github">
   <diagram id="dFcGTcOO6VKS4K1IGvdy" name="Page-1">
     <mxGraphModel dx="4537" dy="1916" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1275,7 +1275,7 @@
         <mxCell id="q0G8UDBc0xY1c4OU2gUi-26" value="Наименование организации налогового агента (юридического лица)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="q0G8UDBc0xY1c4OU2gUi-23">
           <mxGeometry x="170" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q0G8UDBc0xY1c4OU2gUi-27" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;exitX=1.006;exitY=0.104;exitDx=0;exitDy=0;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitPerimeter=0;entryX=-0.005;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q0G8UDBc0xY1c4OU2gUi-14" target="q0G8UDBc0xY1c4OU2gUi-1">
+        <mxCell id="q0G8UDBc0xY1c4OU2gUi-27" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;exitX=1.006;exitY=0.104;exitDx=0;exitDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;exitPerimeter=0;entryX=-0.005;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q0G8UDBc0xY1c4OU2gUi-14" target="q0G8UDBc0xY1c4OU2gUi-1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-520.0000000000005" y="155" as="sourcePoint" />
             <mxPoint x="-1260" y="56" as="targetPoint" />
