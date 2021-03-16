@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T06:45:27.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="RkAhgjtxLH0yUPeZ-xex" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T07:56:43.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="RnXBEGefUdAr2lK1qI82" version="14.4.8" type="github">
   <diagram id="dFcGTcOO6VKS4K1IGvdy" name="Page-1">
-    <mxGraphModel dx="4690" dy="1933" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4730" dy="1931" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1129,7 +1129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-1" value="H_PHONE" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="180" width="600" height="190.00000000000045" as="geometry" />
+          <mxGeometry x="-520" y="180" width="600" height="160.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
           <mxGeometry y="20" width="600" height="20" as="geometry" />
@@ -1144,64 +1144,76 @@
           <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-6" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="40" width="600" height="30" as="geometry" />
+          <mxGeometry y="40" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-7" value="h_phone_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="G1BgPO110GZucqpAuH32-6" vertex="1">
-          <mxGeometry width="110.00000000000045" height="30" as="geometry" />
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-8" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="G1BgPO110GZucqpAuH32-6" vertex="1">
-          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="30" as="geometry" />
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-9" value="Уникальный номер записи в таблице" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="G1BgPO110GZucqpAuH32-6" vertex="1">
-          <mxGeometry x="190" width="410" height="30" as="geometry" />
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-10" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="70" width="600" height="30" as="geometry" />
+          <mxGeometry y="60" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-11" value="phone" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="G1BgPO110GZucqpAuH32-10" vertex="1">
-          <mxGeometry width="110.00000000000045" height="30" as="geometry" />
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-12" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="G1BgPO110GZucqpAuH32-10" vertex="1">
-          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="30" as="geometry" />
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-13" value="Номер телефона" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="G1BgPO110GZucqpAuH32-10" vertex="1">
-          <mxGeometry x="190" width="410" height="30" as="geometry" />
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oQp3eKzQIIVdlgRIytoF-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="G1BgPO110GZucqpAuH32-1">
+          <mxGeometry y="80" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oQp3eKzQIIVdlgRIytoF-2" value="format_status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="oQp3eKzQIIVdlgRIytoF-1">
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oQp3eKzQIIVdlgRIytoF-3" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="oQp3eKzQIIVdlgRIytoF-1">
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oQp3eKzQIIVdlgRIytoF-4" value="Статус очистки и форматирования исходного номера телефона" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="oQp3eKzQIIVdlgRIytoF-1">
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-14" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="100" width="600" height="30" as="geometry" />
+          <mxGeometry y="100" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-15" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="G1BgPO110GZucqpAuH32-14" vertex="1">
-          <mxGeometry width="110.00000000000045" height="30" as="geometry" />
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-16" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="G1BgPO110GZucqpAuH32-14" vertex="1">
-          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="30" as="geometry" />
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-17" value="Название источника, откуда пришли данные" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="G1BgPO110GZucqpAuH32-14" vertex="1">
-          <mxGeometry x="190" width="410" height="30" as="geometry" />
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iINGVpcgLTFxF7QF2aCY-69" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="130" width="600" height="30" as="geometry" />
+          <mxGeometry y="120" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iINGVpcgLTFxF7QF2aCY-70" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="iINGVpcgLTFxF7QF2aCY-69" vertex="1">
-          <mxGeometry width="110.00000000000045" height="30" as="geometry" />
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iINGVpcgLTFxF7QF2aCY-71" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="iINGVpcgLTFxF7QF2aCY-69" vertex="1">
-          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="30" as="geometry" />
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iINGVpcgLTFxF7QF2aCY-72" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="iINGVpcgLTFxF7QF2aCY-69" vertex="1">
-          <mxGeometry x="190" width="410" height="30" as="geometry" />
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="160" width="600" height="30" as="geometry" />
+          <mxGeometry y="140" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-19" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="G1BgPO110GZucqpAuH32-18" vertex="1">
-          <mxGeometry width="110.00000000000045" height="30" as="geometry" />
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-20" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="G1BgPO110GZucqpAuH32-18" vertex="1">
-          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="30" as="geometry" />
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-21" value="Дата и время добавления записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="G1BgPO110GZucqpAuH32-18" vertex="1">
-          <mxGeometry x="190" width="410" height="30" as="geometry" />
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-u1alnqlDad-5Ofw1X0J-1" value="H_ADDRESS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-520" y="880" width="600" height="210" as="geometry" />
