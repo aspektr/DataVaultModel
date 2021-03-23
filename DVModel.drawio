@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T16:37:05.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4N_-ne1-LiGbYWGGcQBG" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T04:11:10.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="XiwEbeivI8o9busFlkDX" version="14.5.0" type="github">
   <diagram id="dFcGTcOO6VKS4K1IGvdy" name="Page-1">
-    <mxGraphModel dx="8748" dy="4377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3951" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EPkseS7NzwhFI91PUBss-153" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Reference tables&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-153" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Reference tables&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-2620" y="-390" width="680" height="2570" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-152" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Links&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-152" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Links&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-1260" y="-390" width="680" height="2570" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-151" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sats&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-151" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sats&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-1940" y="-390" width="680" height="2570" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-148" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Hubs&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-148" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Hubs&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-580" y="-390" width="700" height="2570" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-149" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Links&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-149" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Links&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="120" y="-390" width="680" height="2570" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-150" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sats&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-150" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Sats&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="800" y="-390" width="1360" height="2570" as="geometry" />
         </mxCell>
         <mxCell id="sgqDZq_n20WNryxTrBRQ-63" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="sgqDZq_n20WNryxTrBRQ-72" target="sgqDZq_n20WNryxTrBRQ-122" edge="1">
@@ -792,7 +792,7 @@
             <mxPoint x="-1330" y="470.17999999999984" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i8icEub0lS1QI5z_UeVk-96" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="i8icEub0lS1QI5z_UeVk-43" edge="1" target="Fi9RAI6sNOyQZMEyOrty-150">
+        <mxCell id="i8icEub0lS1QI5z_UeVk-96" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="i8icEub0lS1QI5z_UeVk-43" target="Fi9RAI6sNOyQZMEyOrty-150" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-2069.4" y="767" as="sourcePoint" />
             <mxPoint x="-2050" y="898" as="targetPoint" />
@@ -1139,7 +1139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-1" value="H_PHONE" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="-170" width="600" height="160.00000000000045" as="geometry" />
+          <mxGeometry x="-520" y="-170" width="600" height="180.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
           <mxGeometry y="20" width="600" height="20" as="geometry" />
@@ -1177,8 +1177,20 @@
         <mxCell id="G1BgPO110GZucqpAuH32-13" value="Номер телефона" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="G1BgPO110GZucqpAuH32-10" vertex="1">
           <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oQp3eKzQIIVdlgRIytoF-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
+        <mxCell id="7hho4265ti9tG2z51KeG-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="G1BgPO110GZucqpAuH32-1">
           <mxGeometry y="80" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7hho4265ti9tG2z51KeG-2" value="phone_type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="7hho4265ti9tG2z51KeG-1">
+          <mxGeometry width="110.00000000000045" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7hho4265ti9tG2z51KeG-3" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="7hho4265ti9tG2z51KeG-1">
+          <mxGeometry x="110.00000000000045" width="79.99999999999955" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7hho4265ti9tG2z51KeG-4" value="Тип телефонного номер" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="7hho4265ti9tG2z51KeG-1">
+          <mxGeometry x="190" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oQp3eKzQIIVdlgRIytoF-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
+          <mxGeometry y="100" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oQp3eKzQIIVdlgRIytoF-2" value="format_status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="oQp3eKzQIIVdlgRIytoF-1" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
@@ -1190,7 +1202,7 @@
           <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-14" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="100" width="600" height="20" as="geometry" />
+          <mxGeometry y="120" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-15" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="G1BgPO110GZucqpAuH32-14" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
@@ -1202,7 +1214,7 @@
           <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iINGVpcgLTFxF7QF2aCY-69" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="120" width="600" height="20" as="geometry" />
+          <mxGeometry y="140" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iINGVpcgLTFxF7QF2aCY-70" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="iINGVpcgLTFxF7QF2aCY-69" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
@@ -1214,7 +1226,7 @@
           <mxGeometry x="190" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="G1BgPO110GZucqpAuH32-1" vertex="1">
-          <mxGeometry y="140" width="600" height="20" as="geometry" />
+          <mxGeometry y="160" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1BgPO110GZucqpAuH32-19" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="G1BgPO110GZucqpAuH32-18" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
@@ -2205,130 +2217,130 @@
         <mxCell id="pdgK1O2uChsV_dKS599c-33" value="Название инкрементального поля в источнике" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="pdgK1O2uChsV_dKS599c-30" vertex="1">
           <mxGeometry x="190" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-5" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pdgK1O2uChsV_dKS599c-1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-5" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pdgK1O2uChsV_dKS599c-1" vertex="1">
           <mxGeometry y="140" width="460" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-6" value="incr_field_format" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-5">
+        <mxCell id="EPkseS7NzwhFI91PUBss-6" value="incr_field_format" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-5" vertex="1">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-7" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-5">
+        <mxCell id="EPkseS7NzwhFI91PUBss-7" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-5" vertex="1">
           <mxGeometry x="110" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-8" value="Формат значений инкрементального поля" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-5">
+        <mxCell id="EPkseS7NzwhFI91PUBss-8" value="Формат значений инкрементального поля" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-5" vertex="1">
           <mxGeometry x="190" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pdgK1O2uChsV_dKS599c-1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pdgK1O2uChsV_dKS599c-1" vertex="1">
           <mxGeometry y="160" width="460" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-2" value="raw_data_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-2" value="raw_data_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-1" vertex="1">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-3" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-3" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-1" vertex="1">
           <mxGeometry x="110" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-4" value="Путь до каталога в HDFS" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-4" value="Путь до каталога в HDFS" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-1" vertex="1">
           <mxGeometry x="190" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-9" value="S_FIODR_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-9" value="S_FIODR_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="840" y="585" width="600" height="200.00000000000227" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="20" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-11" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-10">
+        <mxCell id="EPkseS7NzwhFI91PUBss-11" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-10" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-12" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-10">
+        <mxCell id="EPkseS7NzwhFI91PUBss-12" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-10" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-13" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-10">
+        <mxCell id="EPkseS7NzwhFI91PUBss-13" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-10" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-14" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-14" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="40" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-15" value="h_fiodr_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-14">
+        <mxCell id="EPkseS7NzwhFI91PUBss-15" value="h_fiodr_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-14" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-16" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-14">
+        <mxCell id="EPkseS7NzwhFI91PUBss-16" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-14" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-17" value="Уникальный номер записи в таблице H_FIODR" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-14">
+        <mxCell id="EPkseS7NzwhFI91PUBss-17" value="Уникальный номер записи в таблице H_FIODR" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-14" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="60" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-19" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-18">
+        <mxCell id="EPkseS7NzwhFI91PUBss-19" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-18" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-20" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-18">
+        <mxCell id="EPkseS7NzwhFI91PUBss-20" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-18" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-21" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-18">
+        <mxCell id="EPkseS7NzwhFI91PUBss-21" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-18" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="80" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-23" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-22">
+        <mxCell id="EPkseS7NzwhFI91PUBss-23" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-22" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-24" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-22">
+        <mxCell id="EPkseS7NzwhFI91PUBss-24" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-22" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-25" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-22">
+        <mxCell id="EPkseS7NzwhFI91PUBss-25" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-22" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-38" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-38" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="100" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-39" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-38">
+        <mxCell id="EPkseS7NzwhFI91PUBss-39" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-38" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-40" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-38">
+        <mxCell id="EPkseS7NzwhFI91PUBss-40" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-38" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-41" value="Количество записей с одинаковым h_fiodr_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-38">
+        <mxCell id="EPkseS7NzwhFI91PUBss-41" value="Количество записей с одинаковым h_fiodr_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-38" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-26" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-26" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="130" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-27" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-26">
+        <mxCell id="EPkseS7NzwhFI91PUBss-27" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-26" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-28" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-26">
+        <mxCell id="EPkseS7NzwhFI91PUBss-28" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-26" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-29" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-26">
+        <mxCell id="EPkseS7NzwhFI91PUBss-29" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-26" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-30" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-30" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="160" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-31" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-30">
+        <mxCell id="EPkseS7NzwhFI91PUBss-31" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-30" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-32" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-30">
+        <mxCell id="EPkseS7NzwhFI91PUBss-32" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-30" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-33" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-30">
+        <mxCell id="EPkseS7NzwhFI91PUBss-33" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-30" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-34" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-9">
+        <mxCell id="EPkseS7NzwhFI91PUBss-34" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-9" vertex="1">
           <mxGeometry y="180" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-35" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-34">
+        <mxCell id="EPkseS7NzwhFI91PUBss-35" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-34" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-36" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-34">
+        <mxCell id="EPkseS7NzwhFI91PUBss-36" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-34" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-37" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-34">
+        <mxCell id="EPkseS7NzwhFI91PUBss-37" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-34" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-42" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UNvLWvAiq8z-6MAezgbr-6" target="EPkseS7NzwhFI91PUBss-14">
+        <mxCell id="EPkseS7NzwhFI91PUBss-42" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmandOne;startFill=0;endArrow=ERmany;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="UNvLWvAiq8z-6MAezgbr-6" target="EPkseS7NzwhFI91PUBss-14" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-509.39999999999964" y="504.49999999999955" as="sourcePoint" />
             <mxPoint x="170" y="839.9999999999995" as="targetPoint" />
@@ -2338,304 +2350,304 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-43" value="S_INN_COMPANY_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-43" value="S_INN_COMPANY_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="840" y="830" width="600" height="200.00000000000227" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="20" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-45" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-44">
+        <mxCell id="EPkseS7NzwhFI91PUBss-45" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-44" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-46" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-44">
+        <mxCell id="EPkseS7NzwhFI91PUBss-46" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-44" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-47" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-44">
+        <mxCell id="EPkseS7NzwhFI91PUBss-47" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-44" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-48" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-48" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="40" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-49" value="h_inn_company_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-48">
+        <mxCell id="EPkseS7NzwhFI91PUBss-49" value="h_inn_company_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-48" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-50" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-48">
+        <mxCell id="EPkseS7NzwhFI91PUBss-50" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-48" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-51" value="Уникальный номер записи в таблице H_INN_COMPANY" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-48">
+        <mxCell id="EPkseS7NzwhFI91PUBss-51" value="Уникальный номер записи в таблице H_INN_COMPANY" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-48" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-52" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-52" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="60" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-53" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-52">
+        <mxCell id="EPkseS7NzwhFI91PUBss-53" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-52" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-54" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-52">
+        <mxCell id="EPkseS7NzwhFI91PUBss-54" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-52" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-55" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-52">
+        <mxCell id="EPkseS7NzwhFI91PUBss-55" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-52" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-56" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-56" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="80" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-57" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-56">
+        <mxCell id="EPkseS7NzwhFI91PUBss-57" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-56" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-58" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-56">
+        <mxCell id="EPkseS7NzwhFI91PUBss-58" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-56" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-59" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-56">
+        <mxCell id="EPkseS7NzwhFI91PUBss-59" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-56" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-60" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-60" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="100" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-61" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-60">
+        <mxCell id="EPkseS7NzwhFI91PUBss-61" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-60" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-62" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-60">
+        <mxCell id="EPkseS7NzwhFI91PUBss-62" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-60" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-63" value="Количество записей с одинаковым h_inn_company_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-60">
+        <mxCell id="EPkseS7NzwhFI91PUBss-63" value="Количество записей с одинаковым h_inn_company_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-60" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-64" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-64" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="130" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-65" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-64">
+        <mxCell id="EPkseS7NzwhFI91PUBss-65" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-64" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-66" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-64">
+        <mxCell id="EPkseS7NzwhFI91PUBss-66" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-64" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-67" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-64">
+        <mxCell id="EPkseS7NzwhFI91PUBss-67" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-64" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-68" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-68" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="160" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-69" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-68">
+        <mxCell id="EPkseS7NzwhFI91PUBss-69" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-68" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-70" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-68">
+        <mxCell id="EPkseS7NzwhFI91PUBss-70" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-68" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-71" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-68">
+        <mxCell id="EPkseS7NzwhFI91PUBss-71" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-68" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-72" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-43">
+        <mxCell id="EPkseS7NzwhFI91PUBss-72" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-43" vertex="1">
           <mxGeometry y="180" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-73" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-72">
+        <mxCell id="EPkseS7NzwhFI91PUBss-73" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-72" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-74" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-72">
+        <mxCell id="EPkseS7NzwhFI91PUBss-74" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-72" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-75" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-72">
+        <mxCell id="EPkseS7NzwhFI91PUBss-75" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-72" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-76" value="S_PHONE_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-76" value="S_PHONE_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="840" y="-170" width="600" height="200.00000000000227" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-77" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-77" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="20" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-78" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-77">
+        <mxCell id="EPkseS7NzwhFI91PUBss-78" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-77" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-79" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-77">
+        <mxCell id="EPkseS7NzwhFI91PUBss-79" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-77" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-80" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-77">
+        <mxCell id="EPkseS7NzwhFI91PUBss-80" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-77" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-81" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-81" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="40" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-82" value="h_phone_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-81">
+        <mxCell id="EPkseS7NzwhFI91PUBss-82" value="h_phone_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-81" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-83" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-81">
+        <mxCell id="EPkseS7NzwhFI91PUBss-83" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-81" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-84" value="Уникальный номер записи в таблице H_PHONE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-81">
+        <mxCell id="EPkseS7NzwhFI91PUBss-84" value="Уникальный номер записи в таблице H_PHONE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-81" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-85" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-85" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="60" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-86" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-85">
+        <mxCell id="EPkseS7NzwhFI91PUBss-86" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-85" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-87" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-85">
+        <mxCell id="EPkseS7NzwhFI91PUBss-87" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-85" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-88" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-85">
+        <mxCell id="EPkseS7NzwhFI91PUBss-88" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-85" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-89" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-89" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="80" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-90" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-89">
+        <mxCell id="EPkseS7NzwhFI91PUBss-90" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-89" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-91" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-89">
+        <mxCell id="EPkseS7NzwhFI91PUBss-91" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-89" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-92" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-89">
+        <mxCell id="EPkseS7NzwhFI91PUBss-92" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-89" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-93" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-93" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="100" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-94" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-93">
+        <mxCell id="EPkseS7NzwhFI91PUBss-94" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-93" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-95" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-93">
+        <mxCell id="EPkseS7NzwhFI91PUBss-95" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-93" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-96" value="Количество записей с одинаковым h_phone_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-93">
+        <mxCell id="EPkseS7NzwhFI91PUBss-96" value="Количество записей с одинаковым h_phone_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-93" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-97" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-97" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="130" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-98" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-97">
+        <mxCell id="EPkseS7NzwhFI91PUBss-98" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-97" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-99" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-97">
+        <mxCell id="EPkseS7NzwhFI91PUBss-99" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-97" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-100" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-97">
+        <mxCell id="EPkseS7NzwhFI91PUBss-100" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-97" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-101" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-101" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="160" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-102" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-101">
+        <mxCell id="EPkseS7NzwhFI91PUBss-102" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-101" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-103" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-101">
+        <mxCell id="EPkseS7NzwhFI91PUBss-103" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-101" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-104" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-101">
+        <mxCell id="EPkseS7NzwhFI91PUBss-104" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-101" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-105" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-76">
+        <mxCell id="EPkseS7NzwhFI91PUBss-105" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-76" vertex="1">
           <mxGeometry y="180" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-106" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-105">
+        <mxCell id="EPkseS7NzwhFI91PUBss-106" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-105" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-107" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-105">
+        <mxCell id="EPkseS7NzwhFI91PUBss-107" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-105" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-108" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-105">
+        <mxCell id="EPkseS7NzwhFI91PUBss-108" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-105" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-109" value="S_GRZ_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-109" value="S_GRZ_LOAD_HIST" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fillColor=#999999;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="840" y="60" width="600" height="200.00000000000227" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-110" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-110" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="20" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-111" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-110">
+        <mxCell id="EPkseS7NzwhFI91PUBss-111" value="Название поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-110" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-112" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-110">
+        <mxCell id="EPkseS7NzwhFI91PUBss-112" value="Тип данных" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-110" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-113" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" vertex="1" parent="EPkseS7NzwhFI91PUBss-110">
+        <mxCell id="EPkseS7NzwhFI91PUBss-113" value="Описание поля" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;fillColor=#CCCCCC;" parent="EPkseS7NzwhFI91PUBss-110" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-114" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-114" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="40" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-115" value="h_grz_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-114">
+        <mxCell id="EPkseS7NzwhFI91PUBss-115" value="h_grz_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-114" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-116" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-114">
+        <mxCell id="EPkseS7NzwhFI91PUBss-116" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-114" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-117" value="Уникальный номер записи в таблице H_GRZ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-114">
+        <mxCell id="EPkseS7NzwhFI91PUBss-117" value="Уникальный номер записи в таблице H_GRZ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-114" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-118" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-118" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="60" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-119" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-118">
+        <mxCell id="EPkseS7NzwhFI91PUBss-119" value="partition_hdfs_path" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-118" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-120" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-118">
+        <mxCell id="EPkseS7NzwhFI91PUBss-120" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-118" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-121" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-118">
+        <mxCell id="EPkseS7NzwhFI91PUBss-121" value="Полный путь до каталога партиции в HDFS из слоя сырых данных" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-118" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-122" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-122" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="80" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-123" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-122">
+        <mxCell id="EPkseS7NzwhFI91PUBss-123" value="partition_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-122" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-124" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-122">
+        <mxCell id="EPkseS7NzwhFI91PUBss-124" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-122" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-125" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-122">
+        <mxCell id="EPkseS7NzwhFI91PUBss-125" value="Дата и время партиции из слоя сырых данных, из которой получена запись" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-122" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-126" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-126" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="100" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-127" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-126">
+        <mxCell id="EPkseS7NzwhFI91PUBss-127" value="record_cnt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-126" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-128" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-126">
+        <mxCell id="EPkseS7NzwhFI91PUBss-128" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-126" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-129" value="Количество записей с одинаковым h_grz_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-126">
+        <mxCell id="EPkseS7NzwhFI91PUBss-129" value="Количество записей с одинаковым h_grz_id, которые получаются из данных партиции" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-126" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-130" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-130" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="130" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-131" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-130">
+        <mxCell id="EPkseS7NzwhFI91PUBss-131" value="src_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-130" vertex="1">
           <mxGeometry width="110.00000000000045" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-132" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-130">
+        <mxCell id="EPkseS7NzwhFI91PUBss-132" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-130" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-133" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-130">
+        <mxCell id="EPkseS7NzwhFI91PUBss-133" value="Название источника, откуда берутся данные (элемент справочника R_SOURCE)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-130" vertex="1">
           <mxGeometry x="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-134" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-134" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="160" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-135" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-134">
+        <mxCell id="EPkseS7NzwhFI91PUBss-135" value="task_nm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-134" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-136" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-134">
+        <mxCell id="EPkseS7NzwhFI91PUBss-136" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-134" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-137" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-134">
+        <mxCell id="EPkseS7NzwhFI91PUBss-137" value="Название таска DAG&#39;а сборки DV" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-134" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-138" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EPkseS7NzwhFI91PUBss-109">
+        <mxCell id="EPkseS7NzwhFI91PUBss-138" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="EPkseS7NzwhFI91PUBss-109" vertex="1">
           <mxGeometry y="180" width="600" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-139" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" vertex="1" parent="EPkseS7NzwhFI91PUBss-138">
+        <mxCell id="EPkseS7NzwhFI91PUBss-139" value="load_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;align=left;" parent="EPkseS7NzwhFI91PUBss-138" vertex="1">
           <mxGeometry width="110.00000000000045" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-140" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="EPkseS7NzwhFI91PUBss-138">
+        <mxCell id="EPkseS7NzwhFI91PUBss-140" value="timestamp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="EPkseS7NzwhFI91PUBss-138" vertex="1">
           <mxGeometry x="110.00000000000045" width="89.99999999999955" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-141" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" vertex="1" parent="EPkseS7NzwhFI91PUBss-138">
+        <mxCell id="EPkseS7NzwhFI91PUBss-141" value="Дата и время записи в таблицу" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;" parent="EPkseS7NzwhFI91PUBss-138" vertex="1">
           <mxGeometry x="200" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-142" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="EPkseS7NzwhFI91PUBss-48" target="q0G8UDBc0xY1c4OU2gUi-6">
+        <mxCell id="EPkseS7NzwhFI91PUBss-142" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="EPkseS7NzwhFI91PUBss-48" target="q0G8UDBc0xY1c4OU2gUi-6" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="850" y="450" as="sourcePoint" />
             <mxPoint x="90" y="500" as="targetPoint" />
@@ -2647,13 +2659,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-143" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="EPkseS7NzwhFI91PUBss-81" target="G1BgPO110GZucqpAuH32-6">
+        <mxCell id="EPkseS7NzwhFI91PUBss-143" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="EPkseS7NzwhFI91PUBss-81" target="G1BgPO110GZucqpAuH32-6" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="850" y="450" as="sourcePoint" />
             <mxPoint x="90" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-144" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPkseS7NzwhFI91PUBss-114" target="sgqDZq_n20WNryxTrBRQ-72">
+        <mxCell id="EPkseS7NzwhFI91PUBss-144" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmandOne;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EPkseS7NzwhFI91PUBss-114" target="sgqDZq_n20WNryxTrBRQ-72" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="860" y="460" as="sourcePoint" />
             <mxPoint x="210" y="530" as="targetPoint" />
@@ -2664,7 +2676,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-145" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNvLWvAiq8z-6MAezgbr-6" target="i8icEub0lS1QI5z_UeVk-22">
+        <mxCell id="EPkseS7NzwhFI91PUBss-145" value="" style="html=1;strokeColor=#000000;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UNvLWvAiq8z-6MAezgbr-6" target="i8icEub0lS1QI5z_UeVk-22" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-510" y="500" as="sourcePoint" />
             <mxPoint x="-630" y="555" as="targetPoint" />
@@ -2674,7 +2686,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPkseS7NzwhFI91PUBss-154" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Reference tables&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="EPkseS7NzwhFI91PUBss-154" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Reference tables&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;perimeterSpacing=12;dashPattern=1 4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2160" y="-390" width="520" height="2570" as="geometry" />
         </mxCell>
       </root>
